@@ -15,7 +15,9 @@ header   {
 }
 
 header p {
-  font-family: 'Zen Maru Gothic', sans-serif;
+  font-family: 'Dancing Script', cursive;
+  text-align: center;
+  font-size: 50px;
 }
  
 nav {
@@ -41,4 +43,8 @@ footer   {
   height: 40px;
   background-color : black;
   color: white;
+}
+
+footer p {
+  font-family: 'Klee One', cursive;
 }
